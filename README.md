@@ -1,21 +1,27 @@
 # 👨‍💻 Arnab Mukherjee – Full-Stack Developer
 
-Hi! I'm Arnab, a passionate **Full-Stack Developer** with over **8 years** of experience building scalable web applications using **Laravel**, **Vue.js** and **Node.js**. I specialize in crafting clean, modular code and designing user-centric solutions for web platforms and SaaS products.
+Hi! I'm Arnab, a passionate **Full-Stack Developer** with over **9 years** of experience building scalable web applications using **Laravel**, **Vue.js** and **Node.js**. I specialize in crafting clean, modular code and designing user-centric solutions for web platforms and SaaS products.
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:** JavaScript, PHP, TypeScript, SQL, GraphQL  
-**Front-End:** Vue.js, Angular, Bootstrap  
+**Front-End:** Vue.js, InertiaJS, PrimeVue, Livewire, Angular, Bootstrap  
 **Back-End:** Laravel, Node.js (Express), CodeIgniter  
 **Database:** MySQL, PostgreSQL, MongoDB  
 **DevOps & Tools:**  NGINX, Firebase, AWS EC2/S3, GitHub Actions  
 **Other:** REST APIs, WebSockets, JWT, Composer, Vite, Webpack
+**AI:** ChatGPT, Antigravity, Codex, Amazon Q
 
 ---
 
 ## 🧑‍💼 Experience
+### 🏢 Webskitters Technology Solutions Pvt.Ltd. (July 2025 – Apr 2026) 
+**Software Developer**  
+- Collaborated with cross-functional and distributed teams under multiple project managers, aligning work with shifting project priorities..
+- Designed and implemented AI-driven solutions to enhance project understanding, analysis, and efficiency.
+- 	Researched, developed, and customized advanced data solutions, including high-volume data job scheduling, multi-layer graph visualizations, and complex series-based charting.
 
 ### 🏢 Tech Tide LLP (May 2024 – Apr 2025)  
 **Lead Application Developer**  
